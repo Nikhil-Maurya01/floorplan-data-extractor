@@ -81,7 +81,8 @@ The color-coded boxes make it easy to debug and understand the output:
 -   **<span style="color:blue">BLUE BOX</span>**: A **'Code'** (like `OTS`) was identified.
 
 *(Your annotated PDF output will look something like this:)*
-![Annotated PDF Output](httpsor://storage.googleapis.com/aai-web-assist-public-data/floorplan_annotated_v2.png)
+
+![Annotated PDF Output](assets/annotated_output.png)
 
 ### Corresponding JSON Output
 
